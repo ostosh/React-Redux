@@ -1,1 +1,1 @@
-#React-Redux Starter
+#react-redux-server
